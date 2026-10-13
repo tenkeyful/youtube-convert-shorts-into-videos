@@ -3,7 +3,7 @@
   "name": "YouTube Convert Shorts Into Videos",
   "version": "1.0.6",
   "author": "Nhân Trí",
-  "homepage_url": "https://github.com/tenkeyful/YouTube-Convert-Shorts-Into-Videos",
+  "homepage_url": "https://github.com/tenkeyful/youtube-convert-shorts-into-videos",
   "description": "Converts /shorts/ into /watch?v= on YouTube.",
   "icons": {
     "16": "icon.png",
